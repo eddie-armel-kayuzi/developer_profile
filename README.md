@@ -1,3 +1,4 @@
+
 # Eddie's Developer Profile
 
 ## About
@@ -33,3 +34,4 @@ This project is a simple personal developer profile where I introduce myself, sh
 ## Project Goals
 
 The goal of this project is to gradually improve this website as I learn new technologies and document my journey from basic HTML toward full-stack development.
+
