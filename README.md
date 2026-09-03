@@ -1,13 +1,12 @@
-
 # Eddie's Developer Profile
 
 ## About
 
-My first HTML project, created after completing the Basic HTML section of freeCodeCamp.
+This is my first HTML project, created while I learn the Responsive Web Design certification course on freeCodeCamp.
 
-This project is a simple personal developer profile where I introduce myself, showcase the skills I have learned so far, and document the skills I plan to learn next.
+The idea is to build a simple developer profile and keep improving it as I learn new things. I want this project to show my progress from learning basic HTML all the way to becoming a full-stack developer.
 
-## Current Progress
+## What I Have Learned So Far
 
 ### HTML
 
@@ -16,13 +15,32 @@ This project is a simple personal developer profile where I introduce myself, sh
 - Links
 - Images
 - Lists
-- Basic page structure
+- Description lists
+- Abbreviations
+- Dates and times
 - Embedded content
+- Semantic HTML
+- Navigation
+- Contact information
+- Email and telephone links
 
-## Learning Journey
+### Semantic HTML I Have Used
+
+- `<header>`
+- `<nav>`
+- `<main>`
+- `<section>`
+- `<footer>`
+- `<figure>`
+- `<figcaption>`
+- `<address>`
+- `<time>`
+- `<abbr>`
+
+## My Learning Journey
 
 - ✅ Basic HTML
-- ⬜ Semantic HTML
+- ✅ Semantic HTML
 - ⬜ Forms and Tables
 - ⬜ Accessibility
 - ⬜ CSS
@@ -31,7 +49,10 @@ This project is a simple personal developer profile where I introduce myself, sh
 - ⬜ Backend Development
 - ⬜ Full-Stack Development
 
-## Project Goals
+## My Goals
 
-The goal of this project is to gradually improve this website as I learn new technologies and document my journey from basic HTML toward full-stack development.
+My goal is to keep improving this website as I learn new technologies and document my progress along the way.
 
+I want to go from knowing the basics of HTML to being able to build functional, responsive and user-friendly websites and applications.
+
+I will keep adding to this project as I learn.
