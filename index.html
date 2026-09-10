@@ -91,14 +91,17 @@
                     <p>Address: Casablanca, Morocco</p>
                 </address>
                 <h3>Send me a message:</h3>
-                <form action = " ">
-                    <label for = "name">Full Name:</label>
-                    <input type = "text" id = "name" name = "name" required><br>
-                    <label for = "email">Email: </label>
-                    <input type = "email" id = "email" name = "email" required><br>
-                    <label for ="message">Message:</label>
-                    <input type = "text" id = "message" name = "message" required><br>
-                    <button type = "submit">Send</button>
+                <form>
+                    <fieldset> 
+                        <legend>Personal Information</legend>
+                        <label for = "name">Full Name (required):</label>
+                        <input type = "text" id = "name" name = "name" placeholder="e.g., John Doe" required>
+                        <label for = "email">Email (required):</label>
+                        <input type = "email" id = "email" name = "email" placeholder= "example@gmail.com" required>
+                    </fieldset>
+                    <label for ="message">Leave a Message:</label><br>
+                    <textarea id = "message" name = "message" rows = "5" cols = "30" placeholder="Type your message here..."></textarea><br>
+                    <button type = "submit">Submit</button>
                 </form>
             </section>
         </footer>
