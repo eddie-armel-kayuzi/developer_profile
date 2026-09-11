@@ -2,57 +2,27 @@
 
 ## About
 
-This is my first HTML project, created while I learn the Responsive Web Design certification course on freeCodeCamp.
+My first HTML project, created as I learn the Responsive Web Design certification course on freeCodeCamp.
 
-The idea is to build a simple developer profile and keep improving it as I learn new things. I want this project to show my progress from learning basic HTML all the way to becoming a full-stack developer.
+This project is a simple personal developer profile where I introduce myself, showcase the skills I have learned so far, and document the skills I plan to learn next.
 
-## What I Have Learned So Far
+I am building and improving this project as I go through the course and learn new concepts.
 
-### HTML
+## Skills Roadmap
 
-- Basic HTML
-- Headings and paragraphs
-- Links
-- Images
-- Lists
-- Description lists
-- Abbreviations
-- Dates and times
-- Embedded content
-- Semantic HTML
-- Navigation
-- Contact information
-- Email and telephone links
+I created a skills roadmap in the website to keep track of the technologies and topics I need to learn on my journey towards becoming a full-stack developer.
 
-### Semantic HTML I Have Used
+The roadmap shows:
 
-- `<header>`
-- `<nav>`
-- `<main>`
-- `<section>`
-- `<footer>`
-- `<figure>`
-- `<figcaption>`
-- `<address>`
-- `<time>`
-- `<abbr>`
+- The technology or skill
+- The topics under each skill
+- My current progress
+- The date I complete each topic
 
-## My Learning Journey
+As I learn more, I will continue adding to the roadmap.
 
-- ✅ Basic HTML
-- ✅ Semantic HTML
-- ⬜ Forms and Tables
-- ⬜ Accessibility
-- ⬜ CSS
-- ⬜ JavaScript
-- ⬜ React
-- ⬜ Backend Development
-- ⬜ Full-Stack Development
+## Project Goals
 
-## My Goals
+The goal of this project is to gradually improve this website as I learn new technologies and document my journey from basic HTML toward full-stack development.
 
-My goal is to keep improving this website as I learn new technologies and document my progress along the way.
-
-I want to go from knowing the basics of HTML to being able to build functional, responsive and user-friendly websites and applications.
-
-I will keep adding to this project as I learn.
+Eventually, I want to be able to build websites and applications that are functional, responsive, and user-friendly.
