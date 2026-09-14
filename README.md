@@ -19,6 +19,12 @@ The roadmap shows:
 - My current progress
 - The date I complete each topic
 
+So far, I have completed:
+
+- Basic HTML
+- Semantic HTML
+- Forms and Tables
+
 As I learn more, I will continue adding to the roadmap.
 
 ## Project Goals
